@@ -1,0 +1,27 @@
+[
+		{
+			"date": "12/30/2020",
+			"version": "W.Y.Z",
+			"restart": false
+		},
+		{
+			"date": "12/29/2020",
+			"version": "X.Y.Z",
+			"restart": true
+		},
+		{
+			"date": "12/28/2020",
+			"version": "X.Y.Z",
+			"restart": true
+		},
+		{
+			"date": "12/27/2020",
+			"version": "X.Y.Z",
+			"restart": true
+		},
+		{
+			"date": "12/26/2020",
+			"version": "X.Y.Z",
+			"restart": true
+		}
+	]
